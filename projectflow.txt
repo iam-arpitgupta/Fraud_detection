@@ -1,0 +1,6 @@
+create repo , clone it in local 
+create virtual environment 
+activate virtual environment
+pip install cookiecutter 
+rename src.models to model 
+git add - commit 
